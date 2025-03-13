@@ -1,7 +1,5 @@
 package compliance_framework.template.k8s_deny_bad_image_registry
 
-import data.compliance_framework.template.k8s_deny_bad_image_registry
-
 test_allowed_pods if {
     count(violation) == 0 with input as {
         "Pods": [
