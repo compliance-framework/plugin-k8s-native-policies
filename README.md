@@ -1,4 +1,4 @@
-# Template for policies for use in Compliance Framework plugins
+# K8S native policies
 
 ## Testing
 
